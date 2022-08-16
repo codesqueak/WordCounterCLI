@@ -1,0 +1,2 @@
+# WordCounterCLI
+Word Count Challenge
