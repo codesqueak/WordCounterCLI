@@ -22,7 +22,7 @@ __**(*) The software allows for simple extension by way of custom word extractor
 
 Get the code
 
-`git clone git@github.com:codesqueak/WordCounterCLI.git`
+`git clone https://github.com/codesqueak/WordCounterCLI.git`
 
 Move to project directory
 
