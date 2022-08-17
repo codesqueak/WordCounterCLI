@@ -4,7 +4,9 @@ Word Count Challenge
 
 ## Requirements
 
+* Linux O/S
 * Java 17
+* git (if you want to download it)
 
 ## Assumptions
 
